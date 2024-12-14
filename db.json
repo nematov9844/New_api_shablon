@@ -1,0 +1,26 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "John Doe",
+			"email": "john.doe@example.com"
+		},
+		{
+			"id": 2,
+			"name": "Jane Smith",
+			"email": "jane.smith@example.com"
+		}
+	],
+	"posts": [
+		{
+			"id": 1,
+			"title": "JSON Server haqida",
+			"content": "Bu juda oddiy va foydali vosita."
+		},
+		{
+			"id": 2,
+			"title": "Render platformasi",
+			"content": "Render platformasi hosting uchun qulay yechim."
+		}
+	]
+}
